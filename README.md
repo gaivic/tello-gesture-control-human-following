@@ -1,8 +1,10 @@
 # Tello Gesture Control & Human Following
+![alt text](https://ts2.shop/3752-medium_default/dji-tello-%E6%95%99%E8%82%B2%E7%84%A1%E4%BA%BA%E6%A9%9F-boost-combo.jpg)
 
 ## Introduction
 
 Welcome to the Tello Gesture Control & Human Following project! This repository integrates the tello, OpenCV, and MediaPipe technologies to achieve automatic tracking of specific individuals and gesture-based control for Tello drones.
+![image](https://github.com/gaivic/tello-gesture-control-human-following/assets/107754997/e9ae9479-39b3-4e22-86a8-9f70b608caa6)
 
 ## Features
 
