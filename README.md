@@ -1,5 +1,4 @@
 # Tello Gesture Control & Human Following
-![alt text](https://ts2.shop/3752-medium_default/dji-tello-%E6%95%99%E8%82%B2%E7%84%A1%E4%BA%BA%E6%A9%9F-boost-combo.jpg)
 
 ## Introduction
 
